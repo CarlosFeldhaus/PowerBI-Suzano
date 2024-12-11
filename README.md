@@ -12,5 +12,5 @@ Neste repositório estão publicados todos os projetos em Power BI para o curso 
 
 - Power BI
   
-- Figma (https://www.figma.com/)
+- [Figma] (https://www.figma.com/)
   
