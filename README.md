@@ -10,7 +10,7 @@ Neste repositório estão publicados todos os projetos em Power BI para o curso 
 
 ## Ferramentas utilizadas
 
-- Power BI
+- [Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
   
 - [Figma](https://www.figma.com)
   
